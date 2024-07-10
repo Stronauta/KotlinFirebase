@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4844105097",
+    "project_id": "compose-firebase-3187b",
+    "storage_bucket": "compose-firebase-3187b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4844105097:android:cc4d3ef41b8e7cc0d18558",
+        "android_client_info": {
+          "package_name": "com.example.firabaseprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfRHXdbiAU-cMu9yJ_PthkkgSG-sD_NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
