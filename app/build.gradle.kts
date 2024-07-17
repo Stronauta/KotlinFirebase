@@ -52,9 +52,13 @@ android {
 
 dependencies {
 
-    // Import the Firebase BoM
-    implementation (platform(libs.firebase.bom))
 
+    //WorkManager
+    implementation(libs.androidx.work.runtime.ktx)
+
+
+    // Import the Firebase BoMT
+    implementation (platform(libs.firebase.bom))
 
     // TODO: Add the dependencies for Firebase products you want to use
     // When using the BoM, don't specify versions in Firebase dependencies
@@ -75,4 +79,9 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+
 }
+
+
+
